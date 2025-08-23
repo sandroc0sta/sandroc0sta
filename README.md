@@ -15,9 +15,9 @@
 
 - 📫 How to reach me: **sandrocosta2003@gmail.com**
 
-- 📄 Know about my experiences: I don't yet have any work experience, but I am currently looking for a full time job as a programmer, while also starting my Bachelor's degree in November :)
+- 📄 Know about my experiences: **I don't yet have any work experience, but I am currently looking for a full time job as a programmer, while also starting my Bachelor's degree in November :)**
 
-- ⚡ Something interesting about me **My journey from Portugal to Germany has been one of resilience and learning. While working different jobs to support myself, I focused on studying programming — and now I’m ready to apply my skills as a professional developer.**
+- ⚡ Something interesting about me: **My journey from Portugal to Germany has been one of resilience and learning. While working different jobs to support myself, I focused on studying programming — and now I’m ready to apply my skills as a professional developer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
