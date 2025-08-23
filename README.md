@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandroc0sta&label=Profile%20views&color=0e75b6&style=flat" alt="sandroc0sta" /> </p>
 
-- 🔭 I’m currently working on [Different small projects using react, JavaScript, and other web-development technologies. Many of which I have not published yet.](https://github.com/sandroc0sta/Kleine-Projekte-und-Komponente/tree/main/PracticeAufgaben/Blackjack)
+- 🔭 I’m currently working on: [different small projects using react, JavaScript, and other web-development technologies. Many of which I have not published yet.](https://github.com/sandroc0sta/Kleine-Projekte-und-Komponente/tree/main/PracticeAufgaben/Blackjack)
 
 - 🌱 I’m currently learning **React, Node.js, Express.js, Angular.js, Springboot and C#**
 
-- 👯 I’m looking to collaborate on **Any projects which may help me develop my skills!**
+- 👯 I’m looking to collaborate on **any projects which may help me develop my skills!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sandroc0sta](https://github.com/sandroc0sta)
 
 - 💬 Ask me about **Java, React, Javascript or other web-development technologies. I really like to exchange knowledge!**
 
-- 📫 How to reach me **sandrocosta2003@gmail.com**
+- 📫 How to reach me: **sandrocosta2003@gmail.com**
 
 - 📄 Know about my experiences [I don't yet have any work experience, but I am currently looking for a full time job as a programmer, while also starting my Bachelor's degree in November :)](I don't yet have any work experience, but I am currently looking for a full time job as a programmer, while also starting my Bachelor's degree in November :))
 
