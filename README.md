@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandroc0sta&label=Profile%20views&color=0e75b6&style=flat" alt="sandroc0sta" /> </p>
 
-- 🔭 I’m currently working on: [different small projects using react, JavaScript, and other web-development technologies. Many of which I have not published yet.](https://github.com/sandroc0sta/Kleine-Projekte-und-Komponente/tree/main/PracticeAufgaben/Blackjack)
+- 🔭 I’m currently working on: [different small projects using React, JavaScript, C#, Blazor and other web-development technologies. Many of which I have not published yet.](https://github.com/sandroc0sta/Kleine-Projekte-und-Komponente/tree/main/PracticeAufgaben/Blackjack)
 
-- 🌱 I’m currently learning **React, Node.js, Express.js, Angular.js, Springboot and C#**
+- 🌱 I’m currently learning **React, Node.js, Express.js, Angular.js, Springboot, Blazor, Entity Framework, C#**
 
 - 👯 I’m looking to collaborate on **any projects which may help me develop my skills!**
 
