@@ -1,7 +1,6 @@
 <h1 align="center">Thanks for coming! I'm Sandro Costa</h1>
 <h3 align="center">💻 I’m a junior software developer still building experience, eager to grow my skills and contribute to real-world projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandroc0sta&label=Profile%20views&color=0e75b6&style=flat" alt="sandroc0sta" /> </p>
 
 - 🔭 I’m currently working on: [different small projects using React, JavaScript, C#, Blazor and other web-development technologies. Many of which I have not published yet.](https://github.com/sandroc0sta/Kleine-Projekte-und-Komponente/tree/main/PracticeAufgaben/Blackjack)
 
